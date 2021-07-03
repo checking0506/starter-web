@@ -13,3 +13,5 @@ just for checking
 to the staging area
 
 in the wd
+
+added
